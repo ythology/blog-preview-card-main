@@ -56,8 +56,8 @@ body {
   justify-content: center;
 }
 
+/* Author section */
 .author {
-  /* Author section */
   display: flex;
   align-items: center;
   justify-content: left;
